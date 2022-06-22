@@ -21,8 +21,8 @@ static const char col_gruv_fg1[]    = "#ebdbb2";
 static const char col_gruv_fg0[]    = "#fbf1c7";
 static const char col_gruv_blue[]   = "#458588";
 
-static const unsigned int baralpha = 0xaa;
-+static const unsigned int borderalpha = OPAQUE;
+static const unsigned int baralpha = 0xd0;
+static const unsigned int borderalpha = OPAQUE;
 
 static const char *colors[][3]      = {
 	/*               fg         bg         border   */
