@@ -12,4 +12,8 @@ cd st-0.8.5/
 rm config.h && make clean install 
 cd ..
 
+cd slstatus/
+rm config.h && make clean install 
+cd ..
+
 echo "Build everything"
